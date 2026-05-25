@@ -59,7 +59,3 @@ The main goal of this project is to reduce last-minute pressure and improve stud
 
 The system will help students plan their study tasks more effectively. It will make task management easier, improve time planning, and provide AI-based guidance for better academic productivity.
 
-## Repository Name
-
-```text
-CSE4204-8B-t03-ai-study-task-planner
