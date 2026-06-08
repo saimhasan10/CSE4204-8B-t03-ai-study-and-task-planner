@@ -59,3 +59,27 @@ The main goal of this project is to reduce last-minute pressure and improve stud
 
 The system will help students plan their study tasks more effectively. It will make task management easier, improve time planning, and provide AI-based guidance for better academic productivity.
 
+## Objectives
+
+- To help university students manage study tasks and deadlines in one place.
+- To provide task priority and status tracking.
+- To generate AI-based study plans from user tasks.
+- To help students break large tasks into smaller steps.
+- To reduce last-minute pressure through better academic planning.
+
+## Repository Structure
+
+```text
+CSE4204-8B-t03-ai-study-task-planner/
+│
+├── backend/
+├── frontend/
+├── documentation/
+│   ├── proposal/
+│   └── srs/
+├── diagrams/
+│   ├── use-case/
+│   ├── er-diagram/
+│   └── architecture/
+├── README.md
+└── .gitignore
