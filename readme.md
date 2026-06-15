@@ -86,3 +86,17 @@ CSE4204-8B-t03-ai-study-and-task-planner/
 │   └── activity-diagram/
 ├── README.md
 └── .gitignore
+
+
+## Current Project Status
+
+- Project proposal completed.
+- Team information sheet completed.
+- SRS document prepared.
+- Use case diagram prepared and will be updated for Week 4.
+- ER diagram prepared and will be improved for Week 4.
+- System architecture diagram prepared.
+- Activity diagram will be added for Week 4.
+- API design document will be added for Week 4.
+- AI integration workflow will be added for Week 4.
+- GitHub repository is being maintained for documentation and future development.
