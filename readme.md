@@ -70,16 +70,19 @@ The system will help students plan their study tasks more effectively. It will m
 ## Repository Structure
 
 ```text
-CSE4204-8B-t03-ai-study-task-planner/
+CSE4204-8B-t03-ai-study-and-task-planner/
 │
 ├── backend/
 ├── frontend/
+├── database/
 ├── documentation/
 │   ├── proposal/
-│   └── srs/
+│   ├── srs/
+│   └── system-design/
 ├── diagrams/
 │   ├── use-case/
 │   ├── er-diagram/
-│   └── architecture/
+│   ├── architecture/
+│   └── activity-diagram/
 ├── README.md
 └── .gitignore
