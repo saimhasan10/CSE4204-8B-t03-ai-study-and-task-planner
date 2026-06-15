@@ -87,6 +87,7 @@ CSE4204-8B-t03-ai-study-and-task-planner/
 ├── README.md
 └── .gitignore
 
+```
 
 ## Current Project Status
 
