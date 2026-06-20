@@ -67,7 +67,7 @@ The system will help students plan their study tasks more effectively. It will m
 - To help students break large tasks into smaller steps.
 - To reduce last-minute pressure through better academic planning.
 
-````markdown
+
 ## Week 05 — UI/UX Design and Development Planning
 
 The Week 05 assignment focused on preparing the visual blueprint, user experience, development roadmap, team responsibilities, and final technology setup for the **AI Study and Task Planner**.
@@ -101,7 +101,7 @@ The UI design includes:
 
 ### User Flow
 
-```text
+```
 Landing Page
       ↓
 Registration or Login
@@ -181,7 +181,7 @@ Environment variables and deployment configuration will be documented during the
 
 ### Updated Repository Structure
 
-```text
+```
 CSE4204-8B-t03-ai-study-and-task-planner/
 │
 ├── backend/
